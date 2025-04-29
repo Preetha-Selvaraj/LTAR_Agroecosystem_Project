@@ -1,0 +1,7 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,vif_quadratic,p_value_quadratic
+JER_yearly_False_window_1_lags_none_sinusoidal_no_quadratic,False,1,quadratic_lags_none_sinusoidal_no,0.339,0.078,195.694,197.389,True,True,False,1.375,-25.361,0,2.471,2.471,0.172
+JER_yearly_True_window_1_lags_none_sinusoidal_no_quadratic,True,1,quadratic_lags_none_sinusoidal_no,0.339,0.078,195.694,197.389,True,True,False,1.375,-25.361,0,2.471,2.471,0.172
+JER_yearly_False_window_2_lags_none_sinusoidal_no_quadratic,False,2,quadratic_lags_none_sinusoidal_no,0.275,0.375,187.556,189.251,True,True,False,0.592,-0.708,0,1.779,1.779,0.113
+JER_yearly_True_window_2_lags_none_sinusoidal_no_quadratic,True,2,quadratic_lags_none_sinusoidal_no,0.275,0.375,187.556,189.251,True,True,False,0.592,-0.708,0,1.779,1.779,0.113
+JER_yearly_False_window_3_lags_none_sinusoidal_no_quadratic,False,3,quadratic_lags_none_sinusoidal_no,0.159,0.473,185.544,187.239,True,True,False,0.531,-0.514,0,1.924,1.924,0.351
+JER_yearly_True_window_3_lags_none_sinusoidal_no_quadratic,True,3,quadratic_lags_none_sinusoidal_no,0.159,0.473,185.544,187.239,True,True,False,0.531,-0.514,0,1.924,1.924,0.351

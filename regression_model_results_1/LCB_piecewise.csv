@@ -1,0 +1,9 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,vif_segment,p_value_segment,breakpoint
+LCB_yearly_False_window_1_lags_none_sinusoidal_no_piecewise,False,1,piecewise_lags_none_sinusoidal_no,0.279,0.32,217.792,219.247,True,True,True,2.149,-1.495,0,1.291,1.291,0.854,1275.4167707962627
+LCB_yearly_True_window_1_lags_none_sinusoidal_no_piecewise,True,1,piecewise_lags_none_sinusoidal_no,0.279,0.32,217.792,219.247,True,True,True,2.149,-1.495,0,1.291,1.291,0.854,1275.4167707962627
+LCB_yearly_False_window_2_lags_none_sinusoidal_no_piecewise,False,2,piecewise_lags_none_sinusoidal_no,0.489,0.354,207.872,209.327,True,True,False,1.472,-0.046,0,1.88,1.88,0.673,1027.76809464899
+LCB_yearly_True_window_2_lags_none_sinusoidal_no_piecewise,True,2,piecewise_lags_none_sinusoidal_no,0.489,0.354,207.872,209.327,True,True,False,1.472,-0.046,0,1.88,1.88,0.673,1027.76809464899
+LCB_yearly_False_window_3_lags_none_sinusoidal_no_piecewise,False,3,piecewise_lags_none_sinusoidal_no,0.781,0.014,196.43,197.885,True,True,True,1.561,0.677,0,1.744,1.744,0.491,1100.059155234007
+LCB_yearly_True_window_3_lags_none_sinusoidal_no_piecewise,True,3,piecewise_lags_none_sinusoidal_no,0.781,0.014,196.43,197.885,True,True,True,1.561,0.677,0,1.744,1.744,0.491,1100.059155234007
+LCB_yearly_False_window_4_lags_none_sinusoidal_no_piecewise,False,4,piecewise_lags_none_sinusoidal_no,0.919,0.902,181.647,183.101,True,True,False,2.629,0.896,0,3.589,3.589,0.187,964.4580744775001
+LCB_yearly_True_window_4_lags_none_sinusoidal_no_piecewise,True,4,piecewise_lags_none_sinusoidal_no,0.919,0.902,181.647,183.101,True,True,False,2.629,0.896,0,3.589,3.589,0.187,964.4580744775001

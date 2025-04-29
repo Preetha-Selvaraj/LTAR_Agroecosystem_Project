@@ -1,0 +1,9 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,vif_quadratic,p_value_quadratic
+LCB_yearly_False_window_1_lags_none_sinusoidal_no_quadratic,False,1,quadratic_lags_none_sinusoidal_no,0.276,0.13,217.831,219.286,True,True,True,2.141,-3.586,0,1.555,1.555,0.938
+LCB_yearly_True_window_1_lags_none_sinusoidal_no_quadratic,True,1,quadratic_lags_none_sinusoidal_no,0.276,0.13,217.831,219.286,True,True,True,2.141,-3.586,0,1.555,1.555,0.938
+LCB_yearly_False_window_2_lags_none_sinusoidal_no_quadratic,False,2,quadratic_lags_none_sinusoidal_no,0.486,0.018,207.958,209.413,True,True,False,1.463,-0.04,0,1.54,1.54,0.732
+LCB_yearly_True_window_2_lags_none_sinusoidal_no_quadratic,True,2,quadratic_lags_none_sinusoidal_no,0.486,0.018,207.958,209.413,True,True,False,1.463,-0.04,0,1.54,1.54,0.732
+LCB_yearly_False_window_3_lags_none_sinusoidal_no_quadratic,False,3,quadratic_lags_none_sinusoidal_no,0.769,0.001,197.066,198.521,True,True,True,1.553,0.681,0,1.796,1.796,0.877
+LCB_yearly_True_window_3_lags_none_sinusoidal_no_quadratic,True,3,quadratic_lags_none_sinusoidal_no,0.769,0.001,197.066,198.521,True,True,True,1.553,0.681,0,1.796,1.796,0.877
+LCB_yearly_False_window_4_lags_none_sinusoidal_no_quadratic,False,4,quadratic_lags_none_sinusoidal_no,0.908,0.0,183.219,184.674,True,True,True,2.324,0.869,0,2.218,2.218,0.43
+LCB_yearly_True_window_4_lags_none_sinusoidal_no_quadratic,True,4,quadratic_lags_none_sinusoidal_no,0.908,0.0,183.219,184.674,True,True,True,2.324,0.869,0,2.218,2.218,0.43
