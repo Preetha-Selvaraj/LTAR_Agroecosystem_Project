@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, reach out to:
 
 - GitHub: [Preetha-Selvaraj](https://github.com/Preetha-Selvaraj)
-- Email: your.email@example.com
+- Email: ms.preethaselvaraj@gmail.com
