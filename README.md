@@ -22,6 +22,34 @@ To set up and run this Python project, follow these steps:
 - Jupyter Notebook
 - Required libraries: `numpy`, `pandas`, `scipy`, `statsmodels`, `matplotlib`
 
+## Data Setup
+
+To run the analysis, you need the dataset `LTAR_LegProd_ANPP-PPT.csv` from the `LTAR_DS_Project_Dataset` folder in the repository.
+
+1. **Download the Dataset**:
+   - Navigate to the [LTAR_DS_Project_Dataset folder](https://github.com/Preetha-Selvaraj/LTAR_Agroecosystem_Project/tree/main/LTAR_DS_Project_Dataset) in the repository.
+   - Download the file `LTAR_LegProd_ANPP-PPT.csv`.
+
+2. **For Google Colab Users**:
+   - Upload the downloaded `LTAR_LegProd_ANPP-PPT.csv` to your Google Drive, e.g., in a folder structure like `MyDrive/DS_Project_2025/DS_Project_Dataset/`.
+   - Use the following code in your Jupyter notebook to load the dataset:
+     ```python
+     import pandas as pd
+     df = pd.read_csv('/content/drive/MyDrive/DS_Project_2025/DS_Project_Dataset/LTAR_LegProd_ANPP-PPT.csv')
+     ```
+   - Ensure your Google Drive is mounted in Colab using:
+     ```python
+     from google.colab import drive
+     drive.mount('/content/drive')
+     ```
+3. **For Local or Other Environments**:
+   - Place `LTAR_LegProd_ANPP-PPT.csv` in a directory of your choice (e.g., a `project_dataset/` folder in the project directory).
+   - Update the file path in the `pd.read_csv()` function to point to the location of the CSV file. For example:
+     ```python
+     import pandas as pd
+     df = pd.read_csv('project_dataset/LTAR_LegProd_ANPP-PPT.csv')
+     ```
+     
 ### Steps
 
 ```bash
