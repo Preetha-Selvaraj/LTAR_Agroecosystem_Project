@@ -1,0 +1,2 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,model_type
+LCB_yearly_False_window_4_lags_none_sinusoidal_no_linear,False,4,linear_lags_none_sinusoidal_no,0.901,0.0,182.095,183.065,True,True,True,2.194,0.897,0,1.0,linear

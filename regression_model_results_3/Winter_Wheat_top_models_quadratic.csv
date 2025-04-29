@@ -1,0 +1,2 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,vif_quadratic,p_value_quadratic,vif_ortho_sin_cycle,vif_ortho_cos_cycle,p_value_sin,p_value_cos,model_type
+Winter_Wheat_yearly_False_window_7_lags_none_sinusoidal_yes_quadratic,False,7,quadratic_lags_none_sinusoidal_yes,0.86,0.0,327.142,332.82,True,True,True,1.7,0.779,0,1.819,1.899,0.014,1.026,1.055,0.007,0.295,quadratic

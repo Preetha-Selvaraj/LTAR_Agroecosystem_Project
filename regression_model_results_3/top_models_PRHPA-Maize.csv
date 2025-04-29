@@ -1,0 +1,2 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,vif_ortho_PPT_lag1,p_value_lag1,vif_ortho_PPT_lag2,p_value_lag2,vif_ortho_PPT_lag3,p_value_lag3,vif_ortho_PPT_lag4,p_value_lag4,vif_ortho_sin_cycle,vif_ortho_cos_cycle,p_value_sin,p_value_cos,model_type
+PRHPA-Maize_yearly_False_window_10_lags_none_sinusoidal_no_linear,False,10,linear_lags_none_sinusoidal_no,0.504,0.0,537.416,540.583,True,True,False,0.743,0.416,0,1.0,,,,,,,,,,,,,linear

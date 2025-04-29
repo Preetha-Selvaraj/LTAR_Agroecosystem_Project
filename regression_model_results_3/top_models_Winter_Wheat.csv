@@ -1,0 +1,4 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,vif_ortho_sin_cycle,vif_ortho_cos_cycle,p_value_sin,p_value_cos,model_type,vif_quadratic,p_value_quadratic,vif_segment,p_value_segment,breakpoint
+Winter_Wheat_yearly_True_window_9_lags_none_sinusoidal_no_linear,True,9,linear_lags_none_sinusoidal_no,0.845,0.0,261.568,263.456,True,True,False,0.699,0.81,0,1.0,,,,,linear,,,,,
+Winter_Wheat_yearly_False_window_7_lags_none_sinusoidal_yes_quadratic,False,7,quadratic_lags_none_sinusoidal_yes,0.86,0.0,327.142,332.82,True,True,True,1.7,0.779,0,1.819,1.026,1.055,0.007,0.295,quadratic,1.899,0.014,,,
+Winter_Wheat_yearly_True_window_3_lags_none_sinusoidal_no_piecewise,True,3,piecewise_lags_none_sinusoidal_no,0.719,0.0,294.206,297.04,True,True,True,1.724,0.653,0,1.22,,,,,piecewise,,,1.22,0.016,1059.689870849697

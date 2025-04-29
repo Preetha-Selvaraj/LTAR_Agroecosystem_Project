@@ -1,0 +1,5 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,vif_quadratic,p_value_quadratic,vif_ortho_sin_cycle,vif_ortho_cos_cycle,p_value_sin,p_value_cos
+UCB_yearly_False_window_1_lags_none_sinusoidal_no_quadratic,False,1,quadratic_lags_none_sinusoidal_no,0.039,0.465,731.527,736.277,False,True,True,2.426,-0.193,0,1.666,1.666,0.256,,,,
+UCB_yearly_False_window_1_lags_none_sinusoidal_yes_quadratic,False,1,quadratic_lags_none_sinusoidal_yes,0.04,0.513,735.492,743.409,False,True,True,2.427,-0.297,0,1.779,1.95,0.342,1.057,1.113,0.869,0.925
+UCB_yearly_True_window_1_lags_none_sinusoidal_no_quadratic,True,1,quadratic_lags_none_sinusoidal_no,0.468,0.186,176.055,176.963,True,True,False,0.721,-6.222,0,1.731,1.731,0.042,,,,
+UCB_yearly_True_window_1_lags_none_sinusoidal_yes_quadratic,True,1,quadratic_lags_none_sinusoidal_yes,0.48,0.335,179.83,181.343,True,True,False,0.707,-292.492,0,2.162,2.753,0.205,1.095,1.496,0.841,0.753

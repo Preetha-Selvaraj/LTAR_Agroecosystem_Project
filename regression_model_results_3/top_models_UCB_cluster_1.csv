@@ -1,0 +1,2 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,model_type
+UCB_cluster_1_yearly_False_window_8_lags_none_sinusoidal_no_linear,False,8,linear_lags_none_sinusoidal_no,0.345,0.017,282.044,283.589,True,True,False,1.272,0.307,0,1.0,linear

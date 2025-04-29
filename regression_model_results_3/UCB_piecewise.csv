@@ -1,0 +1,5 @@
+analysis_name,yearly_aggregate,window_size,config_type,r_squared,p_value,aic,bic,is_normal,is_homoscedastic,no_autocorrelation,durbin_watson,cv_r2_score,cv_r2_std,vif_PPT,vif_segment,p_value_segment,breakpoint,vif_ortho_sin_cycle,vif_ortho_cos_cycle,p_value_sin,p_value_cos
+UCB_yearly_False_window_1_lags_none_sinusoidal_no_piecewise,False,1,piecewise_lags_none_sinusoidal_no,0.063,0.246,730.631,735.381,False,True,True,2.486,-0.134,0,1.238,1.238,0.148,1090.947818181818,,,,
+UCB_yearly_False_window_1_lags_none_sinusoidal_yes_piecewise,False,1,piecewise_lags_none_sinusoidal_yes,0.069,0.26,734.404,742.321,False,True,True,2.471,-0.333,0,1.253,1.314,0.177,1090.947818181818,1.001,1.06,0.821,0.673
+UCB_yearly_True_window_1_lags_none_sinusoidal_no_piecewise,True,1,piecewise_lags_none_sinusoidal_no,0.566,0.057,174.016,174.924,True,True,False,0.826,-0.43,0,1.275,1.275,0.019,1024.5541869444444,,,,
+UCB_yearly_True_window_1_lags_none_sinusoidal_yes_piecewise,True,1,piecewise_lags_none_sinusoidal_yes,0.612,0.133,176.898,178.411,True,True,False,0.805,-33.448,0,1.348,1.613,0.086,1024.5541869444444,1.003,1.262,0.893,0.486
